@@ -152,7 +152,7 @@
   resolved "https://registry.yarnpkg.com/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.5.0.tgz#3188bcb273a414b0d215fd22a58540b989b9409a"
   integrity sha512-gv3ZRaISU3fjPAgNsriBRqGWQL6quFx04YMPW/zD8XMLsU32mhCCbfbO6KZFLjvYpCZ8zyDEgqsgf+PwPaM7GQ==
 
-"@logseq/libs@0.2.1":
+"@logseq/libs@0.2.2":
   version "0.2.1"
   resolved "https://registry.yarnpkg.com/@logseq/libs/-/libs-0.2.1.tgz#140846ffa5fda24a61ea73140475b090ab45f69b"
   integrity sha512-lC2HTyJU3thHlqwXq++ZvwBHqhIlrlSel1O7xEAT5NW5wTPHVq3Mq1jJbvPrNpXaZtqhWn9nYuVj1ULKv9540g==
